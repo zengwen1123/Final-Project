@@ -30,9 +30,9 @@ I am thinking to add the line which is the function part of the maze, but it is 
 
 ## Completed Work
 
-Upload photos and videos of your completed final project!
+https://editor.p5js.org/wenzeng@cca.edu/sketches/G1w6Znfnx
 
-Also upload the code that makes up your project to your repository.
+Also I attached the picture and video in another file.
 
 ## References and links
 
